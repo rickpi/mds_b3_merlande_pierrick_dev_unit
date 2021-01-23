@@ -1,5 +1,7 @@
-# unit_test
-Unit test with Jest
+# mds_b3_merlande_pierrick_dev_unit
 
-# How to execute test ?
+## Install packages
+npm install
+
+## Execute tests
 npm test
